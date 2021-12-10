@@ -15,9 +15,6 @@ Date: 17 Nov 2020_______V 0.2
 ____________________________ 
 Date: 16 Nov 2020_______V 0.1
 *Made the program.
-
--------------------------Encryption program by----------------------------
-> wael m. altayf --> Ink
 ---------------------------------How to use-------------------------------
 --------------------------------           -------------------------------
 1. make sure you have a 32 element list representing the encryption key; if you dont know 
